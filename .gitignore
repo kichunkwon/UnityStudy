@@ -1,0 +1,10 @@
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+Build/
+/Plugins
+WindowsNoEditor/
+*.sin
+*_BuiltData.uasset
+.vs/
